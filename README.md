@@ -40,7 +40,7 @@ Also, every teammate found it very fun to develop this game.
 ## Team :octocat:
 
 - Gabriel Félix 
-- [Matheus Lima] (github.com/MatheusAL)
-- [Lucas Campos] (github.com/lucamps)
-- [Lucas Reis] (github.com/lucas-t-reis)
+- [Matheus Lima](github.com/MatheusAL)
+- [Lucas Campos](github.com/lucamps)
+- [Lucas Reis](github.com/lucas-t-reis)
 
