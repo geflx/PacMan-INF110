@@ -5,7 +5,7 @@ This is a non-profit project for educational use.
 
 OBS: The source code variables and it's comments language are currently in Portuguese-BR.
 
-## How to run?
+## How to run? :running:
 
 Type the following command in your bash, make sure Allegro5 library and Makefile are both installed.
 ```	
