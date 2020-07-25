@@ -1,4 +1,4 @@
-# Pacman! Game :joystick:
+# PacMan! Game :joystick:
 
 A game developed in the first semester of CS course's "Programming 1" subject at UFV by a group of four students, using C++ and Allegro5 library to clone a Pacman game. 
 This is a non-profit project for educational use.
@@ -40,7 +40,7 @@ Also, every teammate found it very fun to develop this game.
 ## Team :octocat:
 
 - Gabriel Félix 
-- [Matheus Lima](github.com/MatheusAL)
-- [Lucas Campos](github.com/lucamps)
-- [Lucas Reis](github.com/lucas-t-reis)
+- [Matheus Lima](http://github.com/MatheusAL)
+- [Lucas Campos](http://github.com/lucamps)
+- [Lucas Reis](http://github.com/lucas-t-reis)
 
